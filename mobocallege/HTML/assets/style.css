@@ -1,0 +1,18 @@
+
+*{
+    font-family: poppins,system-ui,  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #444;
+}  
+h1,h2,h3,a {color: #4062bb;}
+
+
+nav a:hover{color: blue;}
+nav a:visited{color: blueviolet;}
+nav a:active{color: red;}
+
+.container{
+    width: 800px;
+    margin: auto;}
+    .post-img{
+        width: 100%;
+    }

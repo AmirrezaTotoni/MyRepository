@@ -1,0 +1,23 @@
+/* استایل‌های کلی صفحه */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4; /* پس زمینه سفید */
+  }
+  
+  /* استایل‌های باکس با شادو */
+  .shadow-box {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db; /* رنگ آبی */
+    color: #fff; /* رنگ متن داخل باکس (سفید) */
+    box-shadow: -8px 8px 15px rgba(0, 0, 0, 1); /*سایه مشکی پررنگ ن */
+    margin: 20px;
+    border: 2px solid #e74c3c; /* حاشیه قرمز */
+    text-align: center;
+    line-height: 200px;
+  }
+  
